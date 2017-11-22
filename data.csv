@@ -1,3 +1,1622 @@
 Goal,Target,Indicator,SeriesCode,Country,Time,Val,ValType,Age,Freq,Location,Nature,Scenario,Sex,Units
-17,17.19,17.19.2,SG_REG_DETH75N,Aland Islands,0,1,Float,T,A,T,C,P,Total,#
-17,17.19,17.19.2,SG_REG_BRTH90N,Aland Islands,0,1,Float,T,A,T,NA,P,Total,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.016,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.027,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.011,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.009,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.015,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.024,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.007,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.016,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.023,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.007,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.019,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CRESPD,Bahamas,0,0.026,Float,30-70,A,T,M,P,Total,#
+15,15.2,15.2.1,AG_LND_FRSTCERT,Bahamas,0,0,Float,T,A,T,NA,P,Total,Percentage
+15,15.2,15.2.1,AG_LND_FRSTCERT,Bahamas,0,0,Float,T,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Bahamas,0,0,Float,T,A,T,NA,P,Total,Percentage
+4,4.5,4.5.1,SE_PRM_GPITCH,Bahamas,0,1.00998,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_PRM_GPITCH,Bahamas,0,1.30377,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_PRM_GPITCH,Bahamas,0,1.11378,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_PRM_GPITCH,Bahamas,0,1.01814,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_PRM_GPITCH,Bahamas,0,1.07936,Float,T,A,T,E,P,Total,Ration
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-1.14,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-3.38,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-0.22,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-0.48,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,0.6,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-3.43,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-1.35,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-0.69,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,1.23,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-1.75,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-3.24,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-5.02,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-0.57,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-1.92,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,1.41,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-2.94,Float,T,A,T,M,P,Total,Percentage
+8,8.2,8.2.1,SL_EMP_PCAP,Bahamas,0,-1.3,Float,T,A,T,M,P,Total,Percentage
+15,15.1,15.1.1,AG_LND_FRST,Bahamas,0,51.448551448551450,Float,T,A,T,NA,P,Total,Percentage
+15,15.1,15.1.1,AG_LND_FRST,Bahamas,0,51.448551448551450,Float,T,A,T,NA,P,Total,Percentage
+15,15.1,15.1.1,AG_LND_FRST,Bahamas,0,51.448551448551450,Float,T,A,T,NA,P,Total,Percentage
+15,15.1,15.1.1,AG_LND_FRST,Bahamas,0,51.448551448551450,Float,T,A,T,NA,P,Total,Percentage
+15,15.1,15.1.1,AG_LND_FRST,Bahamas,0,51.448551448551450,Float,T,A,T,NA,P,Total,Percentage
+6,6.5,6.5.1,ER_H2O_INTGADN,Bahamas,0,0,Float,T,A,T,NA,P,Total,NA
+3,3.c,3.c.1,SH_MED_DENTSTY,Bahamas,0,0.330,Float,T,A,T,C,P,Total,per 1000 pop
+15,15.6,15.6.1,ER_CBD_PTYPGRFA,Bahamas,0,0,Float,T,A,T,NA,P,Total,NA
+11,11.5,11.5.2,VC_DSR_AALT,Bahamas,0,2190.010,Float,T,A,T,E,P,Total,USD
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,Bahamas,0,0.072544296163841,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,Bahamas,0,0.071390974764922,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,Bahamas,0,0.066000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,Bahamas,0,0.071390974764922,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,Bahamas,0,0.080973715876284,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,Bahamas,0,0.080973715876284,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,Bahamas,0,0.070125308914855,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,Bahamas,0,0.070125308914855,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,Bahamas,0,0.072544296163841,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIMF,Bahamas,0,0.066000000000000,Float,T,A,T,G,P,Total,Percentage
+6,6.5,6.5.1,ER_H2O_INTGN,Bahamas,0,0,Float,T,A,T,NA,P,Total,NA
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,12.9,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,10.2,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,11.1,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,12.6,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,12.5,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,9.9,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,12.7,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,11.9,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,10.5,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,12.8,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,12.2,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,11.4,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,12.7,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,10.9,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,13,Float,<1,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_IMRT,Bahamas,0,11.7,Float,<1,A,T,,P,Total,per 1000 births
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,15.852361917496,Float,30-70,A,T,M,P,Female,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,21.863645315170,Float,30-70,A,T,M,P,Male,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,18.656659126282,Float,30-70,A,T,M,P,Total,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,16.202175617218,Float,30-70,A,T,M,P,Female,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,22.139978408813,Float,30-70,A,T,M,P,Male,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,18.938475847244,Float,30-70,A,T,M,P,Total,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,15.094894170761,Float,30-70,A,T,M,P,Female,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,20.373904705048,Float,30-70,A,T,M,P,Male,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,17.573189735413,Float,30-70,A,T,M,P,Total,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,13.010364770889,Float,30-70,A,T,M,P,Female,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,20.978808403015,Float,30-70,A,T,M,P,Male,Prob
+3,3.4,3.4.1,SH_DTH_NCOM,Bahamas,0,16.825461387634,Float,30-70,A,T,M,P,Total,Prob
+9,9.c,9.c.1,IT_MOB_3GNTWK,Bahamas,0,98,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,Bahamas,0,98,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,Bahamas,0,98,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_3GNTWK,Bahamas,0,98,Float,T,A,T,,P,Total,Percentage
+12,12.4,12.4.1,SG_HAZ_CMRROTDAM,Bahamas,0,0,Float,T,A,T,C,P,Total,Percentage
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4985874,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,2632233.5,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4768757,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,8740456,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,1449916,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4970764,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4530257,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,8740456,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4768757,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,1449916,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4313440.5,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4530257,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,1187026.5,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4313440.5,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4970764,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,2262768.25,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4940693,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4940693,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,2262768.25,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,2632233.5,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,1187026.5,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPT,Bahamas,0,4985874,Float,T,A,T,C,P,Total,T
+4,4.5,4.5.1,SE_USC_GPITCH,Bahamas,0,1.05354,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_USC_GPITCH,Bahamas,0,1.12277,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_USC_GPITCH,Bahamas,0,1.01694,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_USC_GPITCH,Bahamas,0,0.98066,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_USC_GPITCH,Bahamas,0,0.99851,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_USC_GPITCH,Bahamas,0,1.05643,Float,T,A,T,CA,P,Total,Ration
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.108,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.158,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.266,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.08,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.108,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.188,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.119,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.191,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.31,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.126,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.241,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CARDIO,Bahamas,0,0.367,Float,30-70,A,T,M,P,Total,#
+14,14.5,14.5.1,ER_MRN_TOTL,Bahamas,0,597705.1,Float,T,A,T,NA,P,Total,Km^2
+6,6.5,6.5.1,ER_H2O_INTGDVN,Bahamas,0,0,Float,T,A,T,NA,P,Total,NA
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,Bahamas,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,Bahamas,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,Bahamas,0,0.531914900000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,Bahamas,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,Bahamas,0,0.531914900000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,Bahamas,0,0.531914900000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,Bahamas,0,0.534759358288770,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,Bahamas,0,0.534759358288770,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,Bahamas,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIBRD,Bahamas,0,0.531914900000000,Float,T,A,T,G,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_4GNTWK,Bahamas,0,35,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_4GNTWK,Bahamas,0,95,Float,T,A,T,,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,Bahamas,0,0.574712643678161,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,Bahamas,0,0.561797752808989,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,Bahamas,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,Bahamas,0,0.561797752808989,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,Bahamas,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,Bahamas,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,Bahamas,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,Bahamas,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,Bahamas,0,0.574712643678161,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIFC,Bahamas,0,0.543478260869565,Float,T,A,T,G,P,Total,Percentage
+9,9.1,9.1.2,IS_TRP_PSSGRKM,Bahamas,0,306081288.048,Float,T,A,T,NA,P,Total,Km
+3,3.3,3.3.5,SH_TRP_INTVN,Bahamas,0,4127,Float,T,A,T,CA,P,Total,#
+3,3.3,3.3.5,SH_TRP_INTVN,Bahamas,0,3,Float,T,A,T,CA,P,Total,#
+3,3.3,3.3.5,SH_TRP_INTVN,Bahamas,0,8,Float,T,A,T,CA,P,Total,#
+3,3.3,3.3.5,SH_TRP_INTVN,Bahamas,0,146,Float,T,A,T,CA,P,Total,#
+3,3.3,3.3.5,SH_TRP_INTVN,Bahamas,0,7000,Float,T,A,T,CA,P,Total,#
+3,3.3,3.3.5,SH_TRP_INTVN,Bahamas,0,5,Float,T,A,T,CA,P,Total,#
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.943275,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.863663,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.846833,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.856476,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.255096,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.127018,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,100,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,100,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,100,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.999329,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,100,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,100,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.833221,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,98.80426,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,98.584299,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.994278,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.997102,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.996613,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,96.951477,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,96.311251,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.90239,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.994255,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,95.583046,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,100,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,98.332748,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,98.010797,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.833221,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.898018,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.626709,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.569139,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.835419,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,96.499977,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,95.749695,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.945419,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.861374,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,97.403526,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,96.872238,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,97.860031,Float,T,A,T,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,97.434606,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.977753,Float,T,A,R,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,96.065547,Float,T,A,T,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,96.065547,Float,T,A,U,G,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.97728,Float,T,A,R,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.966695,Float,T,A,U,M,P,Total,Percentage
+7,7.1,7.1.1,EG_ELC_ACCS,Bahamas,0,99.968536,Float,T,A,T,M,P,Total,Percentage
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,15.5,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,13.5,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,15.3,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,15.1,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,15.4,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,12.1,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,14.5,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,12.8,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,15.5,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,12.4,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,14.8,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,13.9,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,15.4,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,13.2,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,15.7,Float,<5,A,T,,P,Total,per 1000 births
+3,3.2,3.2.1,SH_DYN_MORT,Bahamas,0,14.2,Float,<5,A,T,,P,Total,per 1000 births
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Female,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Total,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,25+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15+,A,T,M,P,Male,Percentage
+1,1.1,1.1.1,SI_POV_EMP1,Bahamas,0,0,Float,15-24,A,T,M,P,Male,Percentage
+10,10.b,10.b.1,DC_TRF_TOTL,Bahamas,0,1116.18,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,Bahamas,0,5709.79,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,Bahamas,0,2296.26,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,Bahamas,0,115.57,Float,T,A,T,NA,P,Total,USD
+10,10.b,10.b.1,DC_TRF_TOTL,Bahamas,0,1208.84,Float,T,A,T,NA,P,Total,USD
+9,9.2,9.2.2,SL_TLF_MANF,Bahamas,0,3.899835796387520,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.2,SL_TLF_MANF,Bahamas,0,3.368080859288360,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.2,SL_TLF_MANF,Bahamas,0,4.734317573039310,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.2,SL_TLF_MANF,Bahamas,0,4.453037672577870,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.2,SL_TLF_MANF,Bahamas,0,3.743658522362820,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.2,SL_TLF_MANF,Bahamas,0,2.793687545698270,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.2,SL_TLF_MANF,Bahamas,0,4.034317899011070,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.2,SL_TLF_MANF,Bahamas,0,3.573061971186830,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.2,SL_TLF_MANF,Bahamas,0,4.368728422547030,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.2,SL_TLF_MANF,Bahamas,0,4.066923227447660,Float,T,A,T,M,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,Bahamas,0,0.561797752808989,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,Bahamas,0,0.552486187845304,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,Bahamas,0,0.531914893617021,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,Bahamas,0,0.552486187845304,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,Bahamas,0,0.531914893617021,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,Bahamas,0,0.531914893617021,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,Bahamas,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,Bahamas,0,0.549450549450550,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,Bahamas,0,0.561797752808989,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIMF,Bahamas,0,0.531914893617021,Float,T,A,T,G,P,Total,Percentage
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,1.900,Float,T,A,T,M,P,Total,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,2.622,Float,T,A,T,M,P,Male,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,1.210,Float,T,A,T,M,P,Female,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,0.879,Float,T,A,T,M,P,Female,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,2.463,Float,T,A,T,M,P,Male,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,1.651,Float,T,A,T,M,P,Total,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,3.174,Float,T,A,T,M,P,Male,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,1.772,Float,T,A,T,M,P,Total,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,0.428,Float,T,A,T,M,P,Female,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,1.085,Float,T,A,T,M,P,Male,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,0.654,Float,T,A,T,M,P,Total,per 100000 pop
+3,3.4,3.4.2,SH_STA_SCIDE,Bahamas,0,0.243,Float,T,A,T,M,P,Female,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,65.55215,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,76.06855,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,63.66639,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,74.50874,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,104.3725,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,66.10809,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,65.82784,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,63.58752,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,110.5104,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,66.90266,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,64.4998,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_ATM_TOTL,Bahamas,0,112.1102,Float,15+,A,T,C,P,Total,per 100000 pop
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.478267,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.432414,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.456929,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.564824,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.607171,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.507933,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.37563,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.412822,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.551484,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.465224,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.542322,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.409827,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.363965,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.471692,Float,T,A,T,C,P,Total,NA
+2,2.a,2.a.1,AG_PRD_ORTIND,Bahamas,0,0.471556,Float,T,A,T,C,P,Total,NA
+12,12.4,12.4.1,SG_HAZ_CMRBASEL,Bahamas,0,16.666667,Float,T,A,T,C,P,Total,Percentage
+15,15.6,15.6.1,ER_CBD_ORSPGRFA,Bahamas,0,0,Float,T,A,T,NA,P,Total,NA
+17,17.18,17.18.3,SG_STT_NSDSIMPL,Bahamas,0,0,Float,T,A,T,G,P,Total,#
+3,3.c,3.c.1,SH_MED_PHARMA,Bahamas,0,0.459,Float,T,A,T,C,P,Total,per 1000 pop
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,4.027369,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,3.000753,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,3.388624,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,4.739871,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,2.710189,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,2.999905,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,2.670321,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,2.768691,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,2.844703,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,2.821683,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,3.014129,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,2.937503,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,3.262129,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,2.566425,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+7,7.3,7.3.1,EG_EGY_PRIM,Bahamas,0,2.969592,Float,T,A,T,E,P,Total,MJ_PER_GDP_CON_PPP_USD
+2,2.5,2.5.2,ER_NRK_LBRED,Bahamas,0,0.0000000000000000,Float,T,A,T,C,P,Total,Percentage
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,28,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,29.19,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,31.6,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,29.14,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,34.78,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,24.12,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,23.25,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,24.12,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,23.25,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,29.14,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,25.82,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,27.87,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,30.06,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,31.6,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,28,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,34.78,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,30.06,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,29.19,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,25.82,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,30.48,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,27.87,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPC,Bahamas,0,30.48,Float,T,A,T,C,P,Total,T
+11,11.5,11.5.2,VC_DSR_AALG,Bahamas,0,257.330356618295070,Float,T,A,T,E,P,Total,per 1000 usd
+15,15.1,15.1.1,AG_LND_TOTL,Bahamas,0,1001,Float,T,A,T,NA,P,Total,h
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,20.905227468010494000,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,5.99329335855389200,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,1.3659840596689823,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,4.06638953714508000000,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,2.4398215112008517,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,6.85218780686716760,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,3.466466428408485600,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,8.911061462600003000,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,4.230054240563861000,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,7.3204340586783030000,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,4.94335889780765300,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,3.97115384615384670000,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBND,Bahamas,0,20.1708963826322430000,Float,T,A,T,NA,P,Total,Percentage
+4,4.5,4.5.1,SE_PRE_GPITCH,Bahamas,0,1.12315,Float,T,A,T,E,P,Total,Ration
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,Bahamas,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRECOSOC,Bahamas,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,71.30045,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,88.82227,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,92.95924,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,91.54871,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,94.46281,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,84.42042,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,85.8156,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,77.04918,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,95.12075,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,94.2446,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,95.18519,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,91.80805,Float,T,A,T,E,P,Female,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,85.05747,Float,T,A,T,E,P,Male,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,91.53488,Float,T,A,T,E,P,Total,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,91.08444,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,89.66667,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_PRM_TRTCHRTCH,Bahamas,0,91.29365,Float,T,A,T,C,P,Female,Percentage
+17,17.19,17.19.2,SG_REG_CENSUSN,Bahamas,0,1,Float,T,A,T,C,P,Total,#
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,7.31,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,15.15,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,14.81,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,28.85,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,4.17,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,14.79,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,14.34,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,28.85,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,14.81,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,4.17,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,13.96,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,14.34,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,3.47,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,13.96,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,14.79,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,6.39,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,16.58,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,16.58,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,6.39,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,7.31,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,3.47,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPC,Bahamas,0,15.15,Float,T,A,T,C,P,Total,T
+5,5.5,5.5.2,IC_GEN_MGTL,Bahamas,0,46.3,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.2,IC_GEN_MGTL,Bahamas,0,39.9,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.2,IC_GEN_MGTL,Bahamas,0,44.4,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.2,IC_GEN_MGTL,Bahamas,0,40.4,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.2,IC_GEN_MGTL,Bahamas,0,40.4,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.2,IC_GEN_MGTL,Bahamas,0,42.8,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.2,IC_GEN_MGTL,Bahamas,0,45.8,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.2,IC_GEN_MGTL,Bahamas,0,41.4,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.2,IC_GEN_MGTL,Bahamas,0,43.2,Float,T,A,T,C,P,Female,Percentage
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.65,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.35,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.64,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,1.2,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.19,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.63,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.61,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,1.2,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.64,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.19,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.58,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.61,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.15,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.58,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.63,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.3,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.7,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.7,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.3,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.35,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.15,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.2; 12.2.2,EN_MAT_DOMCMPG,Bahamas,0,0.65,Float,T,A,T,C,P,Total,Kg
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,0.45,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,2.17,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,3.71,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,0.84,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,1.78,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,0,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,1.69,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,1.84,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,1.92,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,0.42,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,1.23,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,2.15,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,1.54,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,1.7,Float,T,A,T,NA,P,Total,Percentage
+7,7.2,7.2.1,EG_FEC_RNEW,Bahamas,0,1.1,Float,T,A,T,NA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_PENSN,Bahamas,0,84.200000000000000,Float,T,A,T,E,P,Total,Percentage
+15,15.6,15.6.1,ER_CBD_ABSCLRHS,Bahamas,0,0,Float,T,A,T,NA,P,Total,NA
+3,3.9,3.9.1,SH_HAP_ASMORT,Bahamas,0,0.000000000000000,Float,T,A,T,E,P,Total,per 100000 pop
+14,14.5,14.5.1,ER_MRN_MARINT,Bahamas,0,3381,Float,T,A,T,NA,P,Total,Km^2
+8,8.10,8.10.1,FB_CBK_BRCH,Bahamas,0,39.9519,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,Bahamas,0,35.40518,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,Bahamas,0,35.02254,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,Bahamas,0,34.00525,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,Bahamas,0,38.90933,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,Bahamas,0,36.13376,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,Bahamas,0,36.7597,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,Bahamas,0,33.41782,Float,15+,A,T,C,P,Total,per 100000 pop
+8,8.10,8.10.1,FB_CBK_BRCH,Bahamas,0,29.65705,Float,15+,A,T,C,P,Total,per 100000 pop
+2,2.5,2.5.2,ER_UNK_LBRED,Bahamas,0,100.0000000000000000,Float,T,A,T,C,P,Total,Percentage
+4,4.a,4.a.1,SE_USC_ELECT,Bahamas,0,100,Float,T,A,T,C,P,Total,Percentage
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.007,Float,T,A,T,M,P,Total,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.002,Float,T,A,T,M,P,Female,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.005,Float,T,A,T,M,P,Male,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.001,Float,T,A,T,M,P,Female,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.005,Float,T,A,T,M,P,Total,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.004,Float,T,A,T,M,P,Male,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.001,Float,T,A,T,M,P,Female,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.006,Float,T,A,T,M,P,Male,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.007,Float,T,A,T,M,P,Total,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.002,Float,T,A,T,M,P,Total,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.002,Float,T,A,T,M,P,Male,#
+3,3.4,3.4.2,SH_STA_SCIDEN,Bahamas,0,0.000,Float,T,A,T,M,P,Female,#
+16,16.2,16.2.2,VC_VAW_HMTRAF,Bahamas,0,3.000000000000,Float,18+,A,T,NA,P,Female,#
+2,2.5,2.5.2,ER_NRK_LBREDN,Bahamas,0,0,Float,T,A,T,C,P,Total,#
+6,6.5,6.5.1,ER_H2O_INTGNON,Bahamas,0,0,Float,T,A,T,NA,P,Total,NA
+6,6.5,6.5.1,ER_H2O_INTGNON,Bahamas,0,0,Float,T,A,T,NA,P,Total,#
+9,9.1,9.1.2,IS_RDP_FRGHTKM,Bahamas,0,2212,Float,T,A,T,M,P,Total,TKm
+3,3.5,3.5.2,SH_ALC_CONSPT,Bahamas,0,5.4,Float,15+,A,T,E,P,Total,L
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,6.9,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8.4,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8.7,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8.6,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8.6,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,7.3,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8.7,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8.7,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8.6,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8.6,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,7.8,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,7.1,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8.5,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,7.5,Float,<1m,A,T,,P,Total,per 1000 births
+3,3.2,3.2.2,SH_DYN_NMRT,Bahamas,0,8.2,Float,<1m,A,T,,P,Total,per 1000 births
+17,17.6,17.6.2,IT_NET_BD10MB,Bahamas,0,13.55209276762422400,Float,T,A,T,NA,P,Total,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,13.1579,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,13.1579,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,12.1951,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,20,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,12.1951,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,12.1951,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,15,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,13.1579,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,15,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,13.1579,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,20,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,20,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,20,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,15,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,20,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,12.1951,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,12.1951,Float,T,A,T,C,P,Female,Percentage
+5,5.5,5.5.1,SG_GEN_PARL,Bahamas,0,13.1579,Float,T,A,T,C,P,Female,Percentage
+17,17.6,17.6.2,IT_NET_BD2L10MB,Bahamas,0,4.3991856513627960,Float,T,A,T,NA,P,Total,Percentage
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,81018,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,20500,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,4139,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,13382,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,7540,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,24702,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,10941,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,31589,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,15496,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,25500,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,16591,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,12803,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BBNDN,Bahamas,0,77168,Float,T,A,T,NA,P,Total,#
+3,3.9,3.9.1,SH_HAP_MORT,Bahamas,0,0.00000000000000,Float,T,A,T,E,P,Total,per 100000 pop
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,1.28996553638884,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,-1.00061628048815,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,-1.23837064819275,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,1.51512692435481,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,-0.46764439158453,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,-3.32446144277230,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,-1.43304223485933,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,-1.87821922163683,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,0.51477083572715,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,0.84928685605160,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,2.63923404016436,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,-2.92193382402457,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,-4.09708467159278,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,0.70083097140008,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,-5.84796551675842,Float,T,A,T,CA,P,Total,Percentage
+8,8.1,8.1.1,NY_GDP_PCAP,Bahamas,0,-0.16374347713810,Float,T,A,T,CA,P,Total,Percentage
+1,1.3,1.3.1,SI_COV_UEMP,Bahamas,0,25.700000000000000,Float,T,A,T,E,P,Total,Percentage
+9,9.1,9.1.2,IS_RDP_PSSGRKM,Bahamas,0,19647,Float,T,A,T,M,P,Total,Km
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,40,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,52,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,50,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,49,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,44,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,45,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,44,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,48,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,49,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,44,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,50,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,43,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,42,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,51,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,46,Float,<1m,A,T,,P,Total,#
+3,3.2,3.2.2,SH_DYN_NMRTN,Bahamas,0,51,Float,<1m,A,T,,P,Total,#
+17,17.19,17.19.2,SG_REG_DETH75N,Bahamas,0,1,Float,T,A,T,C,P,Total,#
+2,2.5,2.5.2,ER_RSK_LBREDN,Bahamas,0,0,Float,T,A,T,C,P,Total,#
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,14.4,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,20.1,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,10.9,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,20.8,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,16.1,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,17.5,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,11.3,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,13,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,13.8,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,14.6,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,15.5,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,24.9,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,15.8,Float,T,A,T,CA,P,Total,per 100000 pop
+3,3.6,3.6.1,SH_STA_TRAF,Bahamas,0,12.2,Float,T,A,T,CA,P,Total,per 100000 pop
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+9,9.b,9.b.1,NV_IND_TECH,Bahamas,0,27.77351621977850,Float,T,A,T,M,P,Total,Percentage
+16,16.a,16.a.1,SG_NHR_NOAPPLN,Bahamas,0,1,Float,T,A,T,C,P,Total,NA
+16,16.a,16.a.1,SG_NHR_NOAPPLN,Bahamas,0,1,Float,T,A,T,C,P,Total,NA
+16,16.a,16.a.1,SG_NHR_NOAPPLN,Bahamas,0,1,Float,T,A,T,C,P,Total,NA
+16,16.a,16.a.1,SG_NHR_NOAPPLN,Bahamas,0,1,Float,T,A,T,C,P,Total,NA
+16,16.a,16.a.1,SG_NHR_NOAPPLN,Bahamas,0,1,Float,T,A,T,C,P,Total,NA
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,6.7,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7.9,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,18.9,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,16.7,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,6.7,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,9.1,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,21.7,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,4.5,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,5.6,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,32.2,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,14,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,10.8,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,29.6,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,14.1,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,10.7,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,30.8,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,14,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,10.7,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,16.3,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,35.5,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,12.3,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,26.4,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,13.9,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,13.1,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,16.2,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,30.8,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,16.1,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,8.8,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,17.9,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,6.9,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,9.4,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,21.9,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,19.9,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,9.1,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,6.9,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7.2,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,14.6,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7.2,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,9.3,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,20.2,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,5.5,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,17.1,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,8.2,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,6.4,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,11.9,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,14.3,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,26.2,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,12.7,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,14.5,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,22.9,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,11,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,14,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,30.1,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,8.1,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,10.2,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,20.2,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7.5,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,9.3,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,16.9,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,8.7,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,11.2,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,24.1,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7.8,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,10.8,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,24,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7.5,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,10,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,20.3,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,8.1,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,11.8,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,28.2,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7.5,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,10.2,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,23.3,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7.2,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,9.4,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,20,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7.8,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,11,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,26.9,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,25.4,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,13,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,15.3,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,30.3,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,13.7,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,12.1,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,14.5,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,27.5,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,11.2,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,4.8,Float,25+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,6.7,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,14,Float,15-24,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,5.4,Float,25+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,16.6,Float,15-24,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,15.1,Float,15-24,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,6.9,Float,15+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,5.1,Float,25+,A,T,C,P,Total,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,6.9,Float,15+,A,T,C,P,Male,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,8.4,Float,15+,A,T,C,P,Female,Percentage
+8,8.5,8.5.2,SL_TLF_UEM,Bahamas,0,7.6,Float,15+,A,T,C,P,Total,Percentage
+16,16.5,16.5.2,IC_FRM_BRIB,Bahamas,0,20.999498,Float,T,A,T,E,P,Total,Percentage
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.08,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.71,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.50,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.90,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.63,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.14,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.88,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.02,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.06,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.34,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.35,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.73,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.98,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.75,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.30,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,4.18,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.06,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.61,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.91,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.27,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.50,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.88,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.40,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.04,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.00,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.84,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.50,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.57,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.02,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.55,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.81,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.17,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,4.02,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.21,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.69,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.93,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.63,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.76,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.36,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.86,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.24,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.08,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.29,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.28,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.87,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.58,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.09,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.76,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.02,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.46,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.63,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.01,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.82,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.47,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.97,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.50,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.02,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.37,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.45,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.84,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.81,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.44,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.96,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.44,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.05,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.36,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.41,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.80,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.80,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.39,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.93,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.31,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.14,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.35,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.33,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.70,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.94,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.85,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.54,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.03,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.66,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.02,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.42,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.56,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.77,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.37,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.88,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.26,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.06,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.30,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.29,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.65,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.74,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.36,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.83,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.23,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.03,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.27,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.27,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.60,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.79,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.41,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.93,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.35,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.42,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.94,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.39,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.06,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.35,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.38,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.76,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.80,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.80,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.92,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.38,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.29,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.15,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.34,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.31,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.68,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.58,Float,15+,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.75,Float,T,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.35,Float,15-49,A,T,E,P,Female,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.83,Float,T,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,3.22,Float,15-49,A,T,E,P,Male,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,0.13,Float,<15,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,1.27,Float,T,A,T,E,P,Total,per 1000 uninfec.pop
+3,3.3,3.3.1,SH_HIV_INCD,Bahamas,0,2.26,Float,15-49,A,T,E,P,Total,per 1000 uninfec.pop
+12,12.4,12.4.1,SG_HAZ_CMRSTHOLM,Bahamas,0,16.666667,Float,T,A,T,C,P,Total,Percentage
+4,4.5,4.5.1,SE_LSC_GPITCH,Bahamas,0,1,Float,T,A,T,CA,P,Total,Ration
+4,4.5,4.5.1,SE_LSC_GPITCH,Bahamas,0,1.01683,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_LSC_GPITCH,Bahamas,0,1.04304,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_LSC_GPITCH,Bahamas,0,1.07744,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_LSC_GPITCH,Bahamas,0,1.02942,Float,T,A,T,C,P,Total,Ration
+4,4.5,4.5.1,SE_LSC_GPITCH,Bahamas,0,0.98993,Float,T,A,T,C,P,Total,Ration
+4,4.c,4.c.1,SE_PRE_TRTCHRTCH,Bahamas,0,56.15764,Float,T,A,T,E,P,Female,Percentage
+4,4.c,4.c.1,SE_PRE_TRTCHRTCH,Bahamas,0,50,Float,T,A,T,E,P,Male,Percentage
+4,4.c,4.c.1,SE_PRE_TRTCHRTCH,Bahamas,0,56.09756,Float,T,A,T,E,P,Total,Percentage
+4,4.c,4.c.1,SE_PRE_TRTCHRTCH,Bahamas,0,59.76331,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_PRE_TRTCHRTCH,Bahamas,0,59.76331,Float,T,A,T,C,P,Female,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,95,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,100,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,99,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,100,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,95,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,95,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,95,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,99,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,100,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,95,Float,T,A,T,,P,Total,Percentage
+9,9.c,9.c.1,IT_MOB_2GNTWK,Bahamas,0,100,Float,T,A,T,,P,Total,Percentage
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,41,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,38,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,38,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,38,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,41,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,41,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,38,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,40,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,38,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,40,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,41,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,40,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,40,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,40,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,41,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,40,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,40,Float,T,A,T,C,P,Total,#
+5,5.5,5.5.1,SG_GEN_PARLNT,Bahamas,0,40,Float,T,A,T,C,P,Total,#
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,40.422676,Float,15-19,A,T,C,P,Female,per 1000 pop
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,39.755714,Float,15-19,A,T,C,P,Female,per 1000 pop
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,50.799999,Float,15-19,A,T,C,P,Female,per 1000 pop
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,34,Float,15-19,A,T,C,P,Female,per 1000 pop
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,45.599998,Float,15-19,A,T,C,P,Female,per 1000 pop
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,35.897434,Float,15-19,A,T,C,P,Female,per 1000 pop
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,46.900002,Float,15-19,A,T,C,P,Female,per 1000 pop
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,49.799999,Float,15-19,A,T,C,P,Female,per 1000 pop
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,32.009659,Float,15-19,A,T,C,P,Female,per 1000 pop
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,46.400002,Float,15-19,A,T,C,P,Female,per 1000 pop
+3,3.7,3.7.2,SP_DYN_ADKL,Bahamas,0,43,Float,15-19,A,T,C,P,Female,per 1000 pop
+4,4.a,4.a.1,SE_LSC_ELECT,Bahamas,0,100,Float,T,A,T,C,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIABD,Bahamas,0,2.173913043478261,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIABD,Bahamas,0,2.127659574468085,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIABD,Bahamas,0,2.083333333333333,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIABD,Bahamas,0,2.127659574468085,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIABD,Bahamas,0,2.083333333333333,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIABD,Bahamas,0,2.083333333333333,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIABD,Bahamas,0,2.083333333333333,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRIABD,Bahamas,0,2.173913043478261,Float,T,A,T,G,P,Total,Percentage
+9,9.1,9.1.2,IS_TRP_FRGHT,Bahamas,0,7327.905,Float,T,A,T,NA,P,Total,T
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.51638889377924,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.45627690297078,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,4.40934268592551,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.11422668927603,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.50524313891305,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,4.05410559815156,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.74690987514920,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.47045960978482,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,4.34829562725864,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.55512913712506,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.48777894254353,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.88559311004682,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.74620677462018,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.43067588994978,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,4.02488490179309,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,4.05756281055790,Float,T,A,T,M,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANF,Bahamas,0,3.73424469539091,Float,T,A,T,M,P,Total,Percentage
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.716700696666667,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.718006378250000,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.721083696666667,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.72472428355976,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.727806275087888,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.688929256975247,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.70370696663296,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.714549006202458,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.714589893904471,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.70481117511962,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.691954270792789,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.714297131666667,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.71828376916667,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.721590249166667,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.694113659351248,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.714445983717649,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.728287654175060,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.72551571400637,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.721649341222186,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.728799947797173,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.72619563229056,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.722397724351806,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.722138189645357,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.72592014769040,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.728629314338492,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.70607400800521,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.698372799317460,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.70806450293743,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.722322391769092,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.72619519644802,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.728987999611762,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.714528168134460,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.706340079390298,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.71209874509364,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.716052073900892,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.714656147122655,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.70687433121364,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.696099791308492,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.722588790833333,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.71927748000000,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.715865916500000,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.727299032083333,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.72359388166667,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.720031348750000,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.702279799164145,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.70991727701920,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.714991168760507,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.72042683000000,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.723851164083333,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.709225706000112,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.71403983969565,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.717708494199819,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.716803238231658,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.71315017538460,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.707685671864008,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.714901638840705,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.70912477262287,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.701054255378123,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.718586835083333,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.71519494416667,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.710718159666667,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.719187010166667,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.715523185778834,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.71117566938672,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.704508851105755,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.712324184833333,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.71634497916667,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.719601316666667,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.72255670916667,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.725995470166667,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.713370158916667,Float,T,A,T,E,LB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.71730619666667,Float,T,A,T,E,P,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.720765926833333,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.724887439833333,Float,T,A,T,E,UB,Total,NA
+15,15.5,15.5.1,ER_RSK_LST,Bahamas,0,0.72150126750000,Float,T,A,T,E,P,Total,NA
+3,3.c,3.c.1,SH_MED_NSRMWY,Bahamas,0,3.990,Float,T,A,T,C,P,Total,per 1000 pop
+3,3.9,3.9.1,SH_AAP_MORT,Bahamas,0,15.368209,Float,T,A,T,E,P,Total,per 100000 pop
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,Bahamas,0,0.529100529100529,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,Bahamas,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,Bahamas,0,0.523560209424084,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,Bahamas,0,0.523560209424084,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,Bahamas,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,Bahamas,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,Bahamas,0,0.520833333333333,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,Bahamas,0,0.520833333333333,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,Bahamas,0,0.529100529100529,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTUNGA,Bahamas,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,757.2082090085510,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,713.2274099990320,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,1058.0699754138300,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,782.6827984603940,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,752.1513092148890,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,1003.2866491434800,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,821.3421361860160,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,722.9256106015430,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,1062.3211404969000,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,829.0650377093810,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,765.7928152657980,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,848.7768907698420,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,910.9467701360670,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,856.2133358404420,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,978.2733628353530,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,985.8650728249890,Float,T,A,T,M,P,Total,USD
+9,9.2,9.2.1,NV_IND_MANFPC,Bahamas,0,810.3751597306870,Float,T,A,T,M,P,Total,USD
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,5,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,5,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,5,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,5,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,5,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,5,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,5,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,8,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,5,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,6,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,5,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,8,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,8,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,5,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,6,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,8,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,8,Float,T,A,T,C,P,Female,#
+5,5.5,5.5.1,SG_GEN_PARLN,Bahamas,0,6,Float,T,A,T,C,P,Female,#
+6,6.5,6.5.1,ER_H2O_INTGSDN,Bahamas,0,1,Float,T,A,T,NA,P,Total,NA
+3,3.c,3.c.1,SH_MED_PHYSNS,Bahamas,0,2.717,Float,T,A,T,C,P,Total,per 1000 pop
+14,14.5,14.5.1,ER_MRN_MARIN,Bahamas,0,0.565664,Float,T,A,T,NA,P,Total,Percentage
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.027,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.03,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.058,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.025,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.023,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.048,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.026,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.051,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.025,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.051,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.023,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_DIABTS,Bahamas,0,0.028,Float,30-70,A,T,M,P,Female,#
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,0.89496,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,0.39435,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,0.49447,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,1.19532,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,0.5946,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,0.79484,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,0.19411,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,1.0952,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,0.99508,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,0.09399,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,0.69472,Float,T,A,T,E,P,Total,Percentage
+6,6.2,6.2.1,SH_SAN_DEFECT,Bahamas,0,0.29423,Float,T,A,T,E,P,Total,Percentage
+16,16.1,16.1.1,VC_IHR_PSRCN,Bahamas,0,127.000000000,Float,T,A,T,C,P,Total,#
+16,16.1,16.1.1,VC_IHR_PSRCN,Bahamas,0,111.000000000,Float,T,A,T,C,P,Total,#
+16,16.1,16.1.1,VC_IHR_PSRCN,Bahamas,0,94.000000000,Float,T,A,T,C,P,Total,#
+17,17.6,17.6.2,IT_NET_BD10MBN,Bahamas,0,52521,Float,T,A,T,NA,P,Total,#
+2,2.5,2.5.2,ER_UNK_LBREDN,Bahamas,0,1,Float,T,A,T,C,P,Total,#
+16,16.3,16.3.2,VC_PRS_UNSEC,Bahamas,0,22.52881592734894,Float,T,A,T,C,P,Total,Percentage
+16,16.3,16.3.2,VC_PRS_UNSEC,Bahamas,0,42.97994269340974,Float,T,A,T,C,P,Total,Percentage
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.09,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.076,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.166,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.07,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.062,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.131,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.111,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.192,Float,30-70,A,T,M,P,Total,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.08,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.106,Float,30-70,A,T,M,P,Female,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.116,Float,30-70,A,T,M,P,Male,#
+3,3.4,3.4.1,SH_DTH_CANCER,Bahamas,0,0.222,Float,30-70,A,T,M,P,Total,#
+9,9.1,9.1.2,IS_TRP_PSSGR,Bahamas,0,587516.94,Float,T,A,T,NA,P,Total,#
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.28999999,Float,T,A,T,M,P,Male,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.38999999,Float,T,A,T,M,P,Total,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.47999999,Float,T,A,T,M,P,Female,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.49000001,Float,T,A,T,M,P,Female,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.23,Float,T,A,T,M,P,Male,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.36000001,Float,T,A,T,M,P,Total,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.41,Float,T,A,T,M,P,Female,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.28999999,Float,T,A,T,M,P,Male,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.34999999,Float,T,A,T,M,P,Total,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.38999999,Float,T,A,T,M,P,Total,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.27000001,Float,T,A,T,M,P,Male,per 100000 pop
+3,3.9,3.9.3,SH_STA_POISN,Bahamas,0,0.5,Float,T,A,T,M,P,Female,per 100000 pop
+16,16.10,16.10.1,VC_VAW_MTUHRA,Bahamas,0,0,Float,T,A,T,G,P,Total,#
+16,16.10,16.10.1,VC_VAW_MTUHRA,Bahamas,0,0,Float,T,A,T,G,P,Total,#
+15,15.1,15.1.1,AG_LND_FRSTN,Bahamas,0,515.000,Float,T,A,T,NA,P,Total,h
+15,15.1,15.1.1,AG_LND_FRSTN,Bahamas,0,515.000,Float,T,A,T,NA,P,Total,h
+15,15.1,15.1.1,AG_LND_FRSTN,Bahamas,0,515.000,Float,T,A,T,NA,P,Total,h
+15,15.1,15.1.1,AG_LND_FRSTN,Bahamas,0,515.000,Float,T,A,T,NA,P,Total,h
+15,15.1,15.1.1,AG_LND_FRSTN,Bahamas,0,515.000,Float,T,A,T,NA,P,Total,h
+9,9.1,9.1.2,IS_TRP_MAILTKM,Bahamas,0,2775.36,Float,T,A,T,NA,P,Total,TKm
+2,2.5,2.5.2,ER_RSK_LBRED,Bahamas,0,0.0000000000000000,Float,T,A,T,C,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIABD,Bahamas,0,0.209000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIABD,Bahamas,0,0.209000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIABD,Bahamas,0,0.209000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIABD,Bahamas,0,0.209000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIABD,Bahamas,0,0.209000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIABD,Bahamas,0,0.209000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIABD,Bahamas,0,0.209000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIABD,Bahamas,0,0.209000000000000,Float,T,A,T,G,P,Total,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,91.46067,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,90.40767,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,91.939,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,88.37025,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,88.46154,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,88.32952,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,90.68994,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,91.71598,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,89.94253,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,86.69725,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,79.9511,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,89.76641,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,89.00293,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,88.34244,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,85.12397,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,89.68186,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,97.57194,Float,T,A,T,CA,P,Total,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,94.13265,Float,T,A,T,CA,P,Male,Percentage
+4,4.c,4.c.1,SE_USC_TRTCHRTCH,Bahamas,0,99.44444,Float,T,A,T,CA,P,Female,Percentage
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,37,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,47,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,59,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,58,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,35,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,45,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,71,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,59,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,89,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,86,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,65,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,113,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,64,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,54,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,79,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,74,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,50,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,61,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,78,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,61,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,101,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,74,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,59,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,95,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,80,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,61,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,104,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,40,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,61,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,49,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,123,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,56,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,83,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,45,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,35,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,57,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,64,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,42,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,52,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,57,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,116,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,81,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,58,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,49,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,71,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,61,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,34,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,46,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,67,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,46,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,55,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,46,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,35,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,60,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,99,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,61,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,78,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,112,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,65,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,85,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,107,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,64,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,82,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,83,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,56,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,67,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,82,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,60,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,113,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,80,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,53,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,124,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,91,Float,T,A,T,E,UB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,57,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,71,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,54,Float,T,A,T,E,P,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,45,Float,T,A,T,E,LB,Total,per 100000 birth
+3,3.1,3.1.1,SH_STA_MORT,Bahamas,0,67,Float,T,A,T,E,UB,Total,per 100000 birth
+17,17.19,17.19.2,SG_REG_BRTH90N,Bahamas,0,0,Float,T,A,T,NA,P,Total,#
+17,17.6,17.6.2,IT_NET_BD2L10MBN,Bahamas,0,17049,Float,T,A,T,NA,P,Total,#
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,98.0,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,99.0,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,99.0,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,99.0,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,99.0,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,99.0,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,99.0,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,99.0,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,98.0,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,99.0,Float,T,A,T,C,P,Total,Percentage
+3,3.1,3.1.2,SH_STA_BRTC,Bahamas,0,99.0,Float,T,A,T,C,P,Total,Percentage
+9,9.1,9.1.2,IS_TRP_FRGHTKM,Bahamas,0,172730.88,Float,T,A,T,NA,P,Total,TKm
+11,11.6,11.6.2,EN_ATM_PM25,Bahamas,0,12.57887076185877,Float,T,A,U,E,P,Total,mgr/m^3
+11,11.6,11.6.2,EN_ATM_PM25,Bahamas,0,12.65000824206693,Float,T,A,T,E,P,Total,mgr/m^3
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,76.9200000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,25.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,18.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,72.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,27.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,8.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,71.7482028146963,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,11.8000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,20.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,33.8800000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,22.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,26.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,65.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,43.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,78.0000000000000,Float,T,A,T,,P,Total,Percentage
+17,17.8,17.8.1,IT_USE_ii99,Bahamas,0,31.5400000000000,Float,T,A,T,,P,Total,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,100,Float,T,A,T,CA,P,Total,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,100,Float,T,A,T,CA,P,Female,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,100,Float,T,A,T,CA,P,Male,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,88.36207,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,89.84962,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,89.51456,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,86.57025,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,87.19807,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,86.31985,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,82.52427,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,89.0118,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,86.79928,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,90.53549,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,89.00204,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,80.86957,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,83.24873,Float,T,A,T,C,P,Female,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,85.27027,Float,T,A,T,C,P,Total,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,80.8656,Float,T,A,T,C,P,Male,Percentage
+4,4.c,4.c.1,SE_LSC_TRTCHRTCH,Bahamas,0,87.12776,Float,T,A,T,C,P,Female,Percentage
+3,3.9,3.9.1,SH_AAP_ASMORT,Bahamas,0,16.558847,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.d,3.d.1,SH_IHR_CAPPRD,Bahamas,0,75,Float,T,A,T,NA,P,Total,index
+7,7.1,7.1.2,EG_EGY_CLEAN,Bahamas,0,>95.0,String,T,A,T,E,P,Total,Percentage
+11,11.5,11.5.2,VC_DSR_EXVAL,Bahamas,0,45743.7,Float,T,A,T,E,P,Total,USD
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,65,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,69,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,72,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,73,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,67,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,73,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,57,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,63,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,65,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,60,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,73,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,71,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,70,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,67,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,66,Float,<1,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_IMRTN,Bahamas,0,73,Float,<1,A,T,,P,Total,#
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,Bahamas,0,0.529100529100529,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,Bahamas,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,Bahamas,0,0.523560209424084,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,Bahamas,0,0.523560209424084,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,Bahamas,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,Bahamas,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,Bahamas,0,0.520833333333333,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,Bahamas,0,0.520833333333333,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,Bahamas,0,0.529100529100529,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_MBRUNGA,Bahamas,0,0.518134715025907,Float,T,A,T,G,P,Total,Percentage
+16,16.1,16.1.1,VC_IHR_PSRC,Bahamas,0,34.632176291412040,Float,T,A,T,C,P,Total,per 100000 pop
+16,16.1,16.1.1,VC_IHR_PSRC,Bahamas,0,29.807620009237677,Float,T,A,T,C,P,Total,per 100000 pop
+16,16.1,16.1.1,VC_IHR_PSRC,Bahamas,0,26.051048970429290,Float,T,A,T,C,P,Total,per 100000 pop
+1,1.3,1.3.1,SI_COV_WKINJRY,Bahamas,0,82.600000000000000,Float,T,A,T,E,P,Total,Percentage
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,9576000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,9603000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,9575000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,9209000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,10363000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,8370000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,8537000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,8370000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,8537000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,9209000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,8984000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,8973000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,9288000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,9576000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,9575000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,10363000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,9288000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,9603000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,8984000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,10240000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,8973000,Float,T,A,T,C,P,Total,T
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRTN,Bahamas,0,10240000,Float,T,A,T,C,P,Total,T
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,79,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,83,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,87,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,70,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,87,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,82,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,87,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,76,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,80,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,73,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,87,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,85,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,85,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,80,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,82,Float,<5,A,T,,P,Total,#
+3,3.2,3.2.1,SH_DYN_MORTN,Bahamas,0,86,Float,<5,A,T,,P,Total,#
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,Bahamas,0,0.024364320306266,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,Bahamas,0,0.042555227962995,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,Bahamas,0,0.024290075822406,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,Bahamas,0,0.024290075822406,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,Bahamas,0,0.042555227962995,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,Bahamas,0,0.042555227962995,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,Bahamas,0,0.024224645699028,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,Bahamas,0,0.024224645699028,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,Bahamas,0,0.024364320306266,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIFC,Bahamas,0,0.042555227962995,Float,T,A,T,G,P,Total,Percentage
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.19,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.25,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.31,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.14,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.25,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.46,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.1,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.14,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.1,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.25,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.15,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.2,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.24,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.19,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.31,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.46,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.24,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.25,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.15,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.3,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.3,Float,T,A,T,C,P,Total,Kg
+8; 12,8.4; 12.2,8.4.1; 12.2.1,EN_MAT_FTPRPG,Bahamas,0,1.2,Float,T,A,T,C,P,Total,Kg
+6,6.5,6.5.1,ER_H2O_INTGNAN,Bahamas,0,0,Float,T,A,T,NA,P,Total,NA
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,Bahamas,0,0.082073240892728,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,Bahamas,0,0.081610664617236,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,Bahamas,0,0.080000000000000,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,Bahamas,0,0.081610664617236,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,Bahamas,0,0.077786711181457,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,Bahamas,0,0.077786711181457,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,Bahamas,0,0.081479032564474,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,Bahamas,0,0.081479032564474,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,Bahamas,0,0.082073240892728,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTIBRD,Bahamas,0,0.080000000000000,Float,T,A,T,G,P,Total,Percentage
+6,6.5,6.5.1,ER_H2O_INTGUDN,Bahamas,0,0,Float,T,A,T,NA,P,Total,NA
+12,12.4,12.4.1,SG_HAZ_CMRMNTRL,Bahamas,0,100,Float,T,A,T,C,P,Total,Percentage
+15,15.6,15.6.1,ER_CBD_NAGOYA,Bahamas,0,0,Float,T,A,T,NA,P,Total,NA
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,16,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,22,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,19,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,15,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,17,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,13,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,16,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,18,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,21,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,19,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,14,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,17,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,26,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,20,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,23,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,19,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,14,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,19,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,14,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,16,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,16,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,8.6,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,12,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,10,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,13,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,15,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,9.9,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,8.5,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,11,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,9.9,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,8.5,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,11,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,15,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,11,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,13,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,18,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,16,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,12,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,14,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,15,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,13,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,17,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,21,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,18,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,24,Float,T,A,T,E,UB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,32,Float,T,A,T,E,P,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,27,Float,T,A,T,E,LB,Total,per 100000 pop
+3,3.3,3.3.2,SH_TBS_INCD,Bahamas,0,36,Float,T,A,T,E,UB,Total,per 100000 pop
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,5.0966973255814,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,5.0966973255814,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,5.0966973255814,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,5.0966973255814,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,5.0966973255814,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,5.0966973255814,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7492638488372,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,UB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.8142111000000,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7743182139535,Float,T,A,T,C,LB,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7743182139535,Float,T,A,T,C,P,Total,Percentage
+15,15.1,15.1.2,ER_PTD_TERR,Bahamas,0,9.7743182139535,Float,T,A,T,C,UB,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,Bahamas,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+16; 10,16.8; 10.6,16.8.1; 10.6.1,SG_INT_VRTECOSOC,Bahamas,0,1.851851851851852,Float,T,A,T,G,P,Total,Percentage
+4,4.a,4.a.1,SE_PRM_ELECT,Bahamas,0,100,Float,T,A,T,C,P,Total,Percentage
+15,15.6,15.6.1,ER_CBD_SMTA,Bahamas,0,0,Float,T,A,T,NA,P,Total,#
+15,15.6,15.6.1,ER_CBD_SMTA,Bahamas,0,0,Float,T,A,T,NA,P,Total,#
+15,15.6,15.6.1,ER_CBD_SMTA,Bahamas,0,0,Float,T,A,T,NA,P,Total,#
+15,15.6,15.6.1,ER_CBD_SMTA,Bahamas,0,0,Float,T,A,T,NA,P,Total,#
