@@ -1,9 +1,8 @@
 Dimension,Value,Description
-Age,All,All age ranges or no breaks by age
-Freq,A,Annual
-Location,T,All areas
-Nature,NA,Not Available
-Nature,C,Country Data
-Scenario,P,P
-Sex,Total,Both
-Units,#,Number
+Age,15-24,15 to 24 years old
+Age,15+,15 years old and over
+Age,25+,25 years old and over
+Nature,M,Modeled
+Sex,Female,Female
+Sex,Male,Male
+Units,Percentage,Percentage
