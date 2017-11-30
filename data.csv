@@ -1,1 +1,198 @@
-Goal,Target,Indicator,SeriesCode,Country,Time,Val,ValType
+Goal,Target,Indicator,SeriesCode,Country,Time,Val,ValType,Age,Freq,Location,Nature,Scenario,Sex,Units
+6,6.4,6.4.2,ER_H2O_STRESS,Uruguay,2014,3.522683,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Belize,2014,0.687203,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Costa Rica,2014,3.064842,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,El Salvador,2014,11.370042,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Trinidad and Tobago,2014,12.332322,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Puerto Rico,2014,21.2749,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Saint Kitts and Nevis,2014,51.25,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Saint Lucia,2014,14.3,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Jamaica,2014,11.340697,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Djibouti,2014,7.899253,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Haiti,2014,15.638471,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Grenada,2014,7.05,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Dominican Republic,2014,43.730804,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Barbados,2014,87.5,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Cuba,2014,25.623349,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Antigua and Barbuda,2014,8.461538,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Bahamas,2014,0,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Latin America and the Caribbean,2014,3.4,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Switzerland,2014,7.373763,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Luxembourg,2014,2.462857,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Dominica,2014,10,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Comoros,2014,1.168125,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Burundi,2014,3.088507,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Eritrea,2014,10.106517,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Togo,2014,1.774125,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Fiji,2014,0.450118,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Papua New Guinea,2014,0.088169,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Solomon Islands,2014,0,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Vanuatu,2014,0,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,New Zealand,2014,2.74631,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Australia,2014,5.26389,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Australia and New Zealand,2014,3,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Morocco,2014,49.035702,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Sudan,2014,93.669567,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Tunisia,2014,94.008733,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Sub-Saharan Africa,2014,2.5,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Libya,2014,1071.995277,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Egypt,2014,159.851775,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Algeria,2014,87.994446,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Yemen,2014,227.681387,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Northern Africa,2014,85.1,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Kenya,2014,14.312592,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Madagascar,2014,5.758778,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Malawi,2014,11.077864,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Ethiopia,2014,11.596806,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Netherlands,2014,21.07981,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Austria,2014,7.622535,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Belgium,2014,56.484946,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Germany,2014,41.460936,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Bosnia and Herzegovina,2014,1.434007,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Norway,2014,1.148931,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Sweden,2014,2.876045,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Latvia,2014,1.099899,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Lithuania,2014,3.971744,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Slovakia,2014,1.908712,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Ukraine,2014,13.905757,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Romania,2014,5.098177,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Russian Federation,2014,2.008358,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Finland,2014,10.45443,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Iceland,2014,2.641627,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Ireland,2014,2.379738,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Estonia,2014,22.47646,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Denmark,2014,20.719166,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Nepal,2014,5.860593,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Maldives,2014,15.666667,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,"Iran, Islamic Republic of",2014,89.999635,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Sri Lanka,2014,34.076768,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Pakistan,2014,102.500488,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,India,2014,44.529409,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Bhutan,2014,0.562424,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Andorra,2014,0,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Oceania,2014,2.4,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Croatia,2014,0.978505,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,United Kingdom,2014,9.673288,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,France,2014,22.769665,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Greece,2014,19.721428,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Italy,2014,44.828613,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Malta,2014,44.356436,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Serbia,2014,4.278044,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Portugal,2014,17.050567,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Spain,2014,49.651848,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,"Macedonia, Republic of",2014,13.182344,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Slovenia,2014,6.127563,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,World,2014,12.7,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Northern America,2014,8.1,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Poland,2014,37.787668,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Moldova,2014,13.215526,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Hungary,2014,8.204575,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Bulgaria,2014,40.651211,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Czech Republic,2014,23.992001,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,United States of America,2014,22.609486,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Canada,2014,2.208498,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Bermuda,2014,4.24,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Belarus,2014,4.543967,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Europe,2014,5,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Albania,2014,6.468265,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Benin,2014,0.707898,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Swaziland,2014,32.347334,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Namibia,2014,0.93446,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Bahrain,2014,205.775862,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Israel,2014,110.45037,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Iraq,2014,93.055189,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Georgia,2014,4.573511,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Azerbaijan,2014,53.126134,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Western Asia,2014,47.8,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Armenia,2014,59.339229,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Viet Nam,2014,12.789318,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Lebanon,2014,33.284234,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Oman,2014,106.231736,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Qatar,2014,472.53599,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Jordan,2014,118.399663,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Kuwait,2014,2603.487042,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Palestinian Territory,2014,48.74552,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Saudi Arabia,2014,1242.637483,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Syrian Arab Republic (Syria),2014,109.407816,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,United Arab Emirates,2014,2346.455888,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Turkey,2014,27.489558,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Malaysia,2014,3.411505,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Lao PDR,2014,1.392734,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Cambodia,2014,0.609493,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Cyprus,2014,37.638913,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Indonesia,2014,9.240649,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Brazil,2014,1.323345,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Argentina,2014,6.643319,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Venezuela (Bolivarian Republic),2014,2.579149,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Central Asia,2014,55.8,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Kazakhstan,2014,28.143919,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Southern Asia,2014,47.5,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Turkmenistan,2014,162.83132,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Uzbekistan,2014,138.819613,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Tajikistan,2014,71.354123,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Kyrgyzstan,2014,43.953537,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,French Guiana,2014,0,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Ecuador,2014,3.736662,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Colombia,2014,0.85575,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Chile,2014,5.49702,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Suriname,2014,0.956564,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Peru,2014,1.161169,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Paraguay,2014,0.933105,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Guyana,2014,0.861991,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Nicaragua,2014,1.348507,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Mexico,2014,24.071249,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Honduras,2014,2.493881,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Guatemala,2014,3.760442,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Panama,2014,1.049281,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Bolivia,2014,0.526429,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Bangladesh,2014,3.786324,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Singapore,2014,31.666667,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Timor-Leste,2014,14.266586,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Botswana,2014,2.089327,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Lesotho,2014,2.133072,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Equatorial Guinea,2014,0.101145,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,"Congo, (Kinshasa)",2014,0.090419,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Gabon,2014,0.122306,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Sao Tome and Principe,2014,0.460033,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Nigeria,2014,5.827897,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Niger,2014,3.748312,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Senegal,2014,7.232797,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Sierra Leone,2014,0.177541,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Mali,2014,5.820419,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Liberia,2014,0.078938,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Mauritania,2014,15.859058,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Guinea-Bissau,2014,0.71031,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Guinea,2014,0.326563,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Ghana,2014,2.786305,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Côte d'Ivoire,2014,2.71436,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Gambia,2014,1.450538,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Cape Verde,2014,8.96651,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Burkina Faso,2014,9.492213,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,South Africa,2014,42.915441,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Central African Republic,2014,0.069846,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Thailand,2014,17.488838,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Cameroon,2014,0.475612,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Chad,2014,2.438931,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Philippines,2014,25.050042,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Myanmar,2014,3.70384,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Japan,2014,28.4538,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Mongolia,2014,2.425234,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Brunei Darussalam,2014,1.879623,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,South-eastern Asia,2014,7.7,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Korea (South),2014,57.584565,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Korea (North),2014,15.933403,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Eastern Asia,2014,21.1,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,China,2014,29.858368,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Mozambique,2014,0.927968,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Réunion,2014,22.445252,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Mauritius,2014,26.354053,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Rwanda,2014,1.443692,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,South Sudan,2014,1.329293,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Somalia,2014,30.33607,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Uganda,2014,1.331451,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,"Tanzania, United Republic of",2014,7.447489,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Zambia,2014,2.144046,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Zimbabwe,2014,24.287928,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Congo (Brazzaville),2014,0.009141,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Angola,2014,0.67913,Float,All,A,T,NA,P,Total,Percentage
+6,6.4,6.4.2,ER_H2O_STRESS,Afghanistan,2014,43.670393,Float,All,A,T,NA,P,Total,Percentage
