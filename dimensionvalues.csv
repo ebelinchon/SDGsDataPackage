@@ -2,7 +2,10 @@ Dimension,Value,Description
 Age,All,All age ranges or no breaks by age
 Freq,A,Annual
 Location,T,All areas
+Nature,E,Estimated
 Nature,NA,Not Available
 Scenario,P,P
 Sex,Total,Both
+Sex,Male,Male
+Sex,Female,Female
 Units,Percentage,Percentage
