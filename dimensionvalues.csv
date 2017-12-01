@@ -1,14 +1,1 @@
 Dimension,Value,Description
-Age,All,All age ranges or no breaks by age
-Freq,A,Annual
-Location,Rural,Rural
-Location,T,All areas
-Location,Urban,Urban
-Nature,E,Estimated
-Nature,NA,Not Available
-Nature,M,Modeled
-Nature,G,Global monitoring data
-Scenario,P,P
-Sex,Total,Both
-Units,Percentage,Percentage
-Units,MJ_PER_GDP_CON_PPP_USD,Megajoules per USD constant 2011 PPP GDP
