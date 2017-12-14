@@ -1,0 +1,22 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Age,15-24,15 to 24 years old
+Age,15+,15 years old and over
+Age,25+,25 years old and over
+Freq,A,Annual
+Location,Rural,Rural
+Location,Total National,Total (national level)
+Location,Urban,Urban
+Nature,C,Country Data
+Nature,CA,Country Adjusted
+Nature,E,Estimated
+Nature,G,Global monitoring data
+Nature,M,Modeled
+Nature,NA,Not Available
+Scenario,P,P
+Sex,Female,Female
+Sex,Male,Male
+Sex,Total,Both
+Units,#,Number
+Units,Percentage,Percentage
+Units,USD,USD
