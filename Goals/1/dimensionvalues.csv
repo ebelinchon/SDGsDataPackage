@@ -5,7 +5,7 @@ Age,15+,15 years old and over
 Age,25+,25 years old and over
 Freq,A,Annual
 Location,Rural,Rural
-Location,Total National,Total (national level)
+Location,T,All areas
 Location,Urban,Urban
 Nature,C,Country Data
 Nature,CA,Country Adjusted
